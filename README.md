@@ -29,7 +29,6 @@ Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript
 <div>
 <a href="https://github.com/TONSANTOS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONSANTOS&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TONSANTOS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
