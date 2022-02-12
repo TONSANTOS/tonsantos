@@ -4,7 +4,7 @@
 Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript, como ReactJS, React Native e NodeJS.
 
 <p align="center">
-![](https://media.giphy.com/media/OuMFETEGgiG6F2L3uO/giphy.gif)
+<img src="https://media.giphy.com/media/OuMFETEGgiG6F2L3uO/giphy.gif" width="40" height="40" />
 </p>
 
 ### 💻 Ferramentas e Tecnologias 
