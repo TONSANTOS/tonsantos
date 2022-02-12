@@ -1,9 +1,11 @@
-## Ton Santoa
+## Ton Santos
 ### Hello, Devs! 👋
 
 Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript, como ReactJS, React Native e NodeJS.
 
+<p align="center">
 ![](https://media.giphy.com/media/OuMFETEGgiG6F2L3uO/giphy.gif)
+</p>
 
 ### 💻 Ferramentas e Tecnologias 
 
@@ -22,6 +24,7 @@ Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript
 <a href="https://www.linkedin.com/in/ton-santos-46501b1ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br />
 <br />
 <div>
 <a href="https://github.com/TONSANTOS">
