@@ -16,7 +16,7 @@ Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60"/>
 
 ### Contatos:
 
