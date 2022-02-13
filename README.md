@@ -15,7 +15,6 @@ Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript
 
 🔭 Atualmente estou trabalhando na Ingenium Systems como Web developer
 
-<br />
 
 ### Estou aprendendo
 
