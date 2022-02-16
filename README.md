@@ -32,11 +32,9 @@ Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript
 <div>
 <a href="https://github.com/TONSANTOS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONSANTOS&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+</div> 
+![Snake animation](https://github.com/TONNSANTOSS/TONNSANTOSS/blob/output/github-contribution-grid-snake.svg)
   
-  ![Snake animation](https://github.com/TONNSANTOSS/TONNSANTOSS/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **TONSANTOS/tonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
