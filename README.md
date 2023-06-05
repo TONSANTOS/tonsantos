@@ -1,7 +1,7 @@
 ## Ton Santos
 ### Hello, Devs! 👋
 
-Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript, como ReactJS, React Native e NodeJS.
+Sou um desenvolvedor front-end. Gosto das tecnologias relacionadas ao Javascript, como ReactJS, React Native, Next.js e NodeJS.
 
 <p align="center">
 <img src="https://media.giphy.com/media/OuMFETEGgiG6F2L3uO/giphy.gif" />
